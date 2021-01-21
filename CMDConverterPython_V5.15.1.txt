@@ -1,0 +1,2 @@
+cd C:\Users\Bert\AppData\Local\Programs\Python\Python38\Scripts\
+pyside2-uic.exe "D:\OneDrive - BUas\MGT\Block_B\uicVideo\ExampleFiles\window.ui"

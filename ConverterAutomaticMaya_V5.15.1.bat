@@ -1,0 +1,1 @@
+start "C:\Program Files\Autodesk\Maya2020\bin\mayapy.exe" pyside2-uic "D:\OneDrive - BUas\MGT\Block_B\uicVideo\NewFiles\window.ui" -o "D:\OneDrive - BUas\MGT\Block_B\uicVideo\NewFiles\window.py"

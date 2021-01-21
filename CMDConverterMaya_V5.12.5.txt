@@ -1,0 +1,2 @@
+cd C:\Program Files\Autodesk\Maya2020\bin\
+mayapy.exe pyside2-uic "D:\OneDrive - BUas\MGT\Block_B\uicVideo\ExampleFiles\window.ui"

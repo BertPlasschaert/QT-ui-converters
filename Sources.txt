@@ -1,0 +1,3 @@
+https://www.kayla-mae-techmeier.com/post/peg-naming-qt-pyside2-gui
+https://www.itdaan.com/tw/9aa7a49012f72bc18ed06c6767596a3a
+https://stackoverflow.com/questions/46899540/displaying-pyside2-ui-from-pyuic5-converted-python-code

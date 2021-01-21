@@ -1,0 +1,1 @@
+call "C:\Program Files\Autodesk\Maya2020\bin\mayapy.exe" "C:\Program Files\Autodesk\Maya2020\bin\pyside2-uic" "D:\OneDrive - BUas\MGT\Block_B\uicVideo\NewFiles\window.ui" > "D:\OneDrive - BUas\MGT\Block_B\uicVideo\NewFiles\window.py"
